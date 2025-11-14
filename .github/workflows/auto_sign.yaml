@@ -1,5 +1,5 @@
 # run skyland.py
-name: Auto Sign
+name: Auto-sign
 on:
   schedule:
     - cron: '*/5 * * * *'
